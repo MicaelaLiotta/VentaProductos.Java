@@ -1,4 +1,4 @@
-# Programa de Gestión de Ventas (en la carpeta src)
+# Programa de Gestión de Ventas (carpeta src)
 
 Descripción:
 Este es un programa de gestión de ventas desarrollado en Java utilizando JFrame para la interfaz gráfica y listas para el almacenamiento de datos.
