@@ -7,7 +7,9 @@ El programa está diseñado para gestionar información de ventas, productos y c
 Funcionalidades:
 
 -Gestión de Ventas: Permite ingresar y gestionar los datos de ventas.
--Gestión de Productos: Permite ingresar, modificar y eliminar productos.
+
+-Gestión de Productos: Permite ingresar, modificar y eliminar productos.  
+
 -Gestión de Clientes: Permite ingresar, modificar y eliminar clientes.
 
 Estructura del Proyecto:
